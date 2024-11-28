@@ -1,0 +1,11 @@
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\bin\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.deps.json
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\bin\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\bin\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.pdb
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.AssemblyInfoInputs.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.AssemblyInfo.cs
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.csproj.CoreCompileInputs.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\refint\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.pdb
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data\obj\Debug\net8.0\ref\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.dll

@@ -1,0 +1,17 @@
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.deps.json
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.runtimeconfig.json
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.pdb
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\bin\Release\net8.0\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.Data.pdb
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.csproj.AssemblyReference.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.AssemblyInfoInputs.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.AssemblyInfo.cs
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.csproj.CoreCompileInputs.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.EE8F43F6.Up2Date
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\refint\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.dll
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.pdb
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.genruntimeconfig.cache
+O:\git_sandbox\Indasoft.TestTask.Zhoglo.GoodsbatchAPI\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository\obj\Release\net8.0\ref\Indasoft.Zhoglo.TestTask.GoodsbatchAPI.Repository.dll

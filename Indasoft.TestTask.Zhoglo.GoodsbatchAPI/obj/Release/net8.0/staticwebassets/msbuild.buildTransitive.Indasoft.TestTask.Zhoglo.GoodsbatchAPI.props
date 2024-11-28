@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Indasoft.TestTask.Zhoglo.GoodsbatchAPI.props" />
+</Project>
